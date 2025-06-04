@@ -46,7 +46,6 @@ This is a complete end-to-end data science project that predicts California hous
 - Python
 - Scikit-learn
 - Flask (for web API)
-- Tailwind CSS (for styling)
 - Matplotlib & Seaborn (for plots)
 - Joblib (for saving models)
 
